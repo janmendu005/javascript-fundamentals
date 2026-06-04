@@ -24,3 +24,6 @@ This repository contains my JavaScript learning journey as part of my MERN Stack
 ## Goal
 
 Preparing for MERN Stack Developer roles by building strong JavaScript fundamentals and practical coding skills.
+
+## Aurthor
+Janmendu Prakash Dhal
